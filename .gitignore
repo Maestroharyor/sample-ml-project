@@ -1,0 +1,25 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dependency directories
+.env/
+.venv/
+env/
+envs/
+venv/
+pip-selfcheck.json
+
+# Conda environment directories
+.envs/
+envs/
+
+# Conda package cache
+.pkgs/
+pkgs/
+
+# Conda environment files
+*.yaml
+*.yml
+environment.yml
